@@ -64,7 +64,7 @@ This file
 
 ## References
 
-[1] O. Cernotik, D. Vasilyev, and K. Hammerer, *Adiabatic elimination of Gaussian subsystems in stochastic quantum dynamics*, arXiv (to be published).
+[1] O. Cernotik, D. Vasilyev, and K. Hammerer, *Adiabatic elimination of Gaussian subsystems in stochastic quantum dynamics*, [arXiv:1503.07484](http://www.arxiv.org/abs/1503.07484).
 
 [2] J. R. Johansson, P. D. Nation, and F. Nori, *QuTiP: An open-source Python framework for the dynamics of open quantum systems*, [Computer Physics communications **183**, 1760 (2012)](http://dx.doi.org/10.1016/j.cpc.2012.02.021).
 
